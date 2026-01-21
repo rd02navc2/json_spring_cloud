@@ -1,0 +1,375 @@
+01-21-2026
+
+
+
+
+
+
+spring-cloud-gateway
+Here are 583 public repositories matching this topic...
+https://github.com/topics/spring-cloud-gateway?o=desc&s=
+
+请始皇[打钱]是一个前后端分离的工具人系统，项目采用 SpringBoot+Vue 开发，项目加入常见的企业级应用所涉及到的技术点，例如 Redis、RabbitMQ 等(主要是多用用工具多踩踩坑)。
+https://github.com/AldonahZero/spring-Boot-Vue-Bank
+
+mall-swarm学习教程
+2024最新微服务实战教程，Spring Cloud组件、微服务项目实战、Kubernetes容器化部署全方位解析。
+
+https://cloud.macrozheng.com/
+
+
+開源框架：Spring
+https://openhome.cc/Gossip/Spring/
+
+
+Spring Cloud -- 微服務初探及實作
+黃翰暉 Jacob Huang 2021/06/10 10:54:50
+https://www.tpisoftware.com/tpu/articleDetails/2429
+
+Spring Cloud 入门教程
+https://ken.io/category/spring-cloud
+
+https://github.com/ken-io/springboot-course
+'''
+forezp
+SpringCloudLearning
+https://github.com/forezp/SpringCloudLearning
+
+转载请标明出处： http://blog.csdn.net/forezp/article/details/70148833 本文出自方志朋的博客
+
+获取SpringCloud 、Spring Boot视频：https://www.fangzhipeng.com/share/2017/10/01/resource-sharing.html
+
+扫码关注有惊喜
+
+（转载本站文章请注明作者和出处 方志朋的博客）
+
+错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
+
+我为什么这些文章？一是巩固自己的知识，二是希望有更加开放和与人分享的心态，三是接受各位大神的批评指教，有任何问题可以联系我: miles02@163.com .
+
+码农下载：https://git.oschina.net/forezp/SpringCloudLearning
+
+github下载：https://github.com/forezp/SpringCloudLearning,记得star哦！
+
+欢迎大家访问我的个人博客：https://www.fangzhipeng.com/spring-cloud.html
+
+点击获取SpringCloud 、Spring Boot视频
+
+《史上最简单的 SpringCloud 教程》系列：
+Spring Cloud 2020.0.x版本教程
+SpringCloud 2020版本教程0：springcloud 2020版本概述
+SpringCloud 2020版本教程1：使用nacos作为注册中心和配置中心
+SpringCloud 2020版本教程2：使用spring cloud gateway作为服务网关
+SpringCloud 2020版本教程3：使用sentinel作为熔断器
+SpringCloud 2020版本教程4：使用spring cloud sleuth+zipkin实现链路追踪
+Spring Cloud Alibaba教程
+Spring Cloud Alibaba教程：使用Nacos作为服务注册发现组件
+Spring Cloud Alibaba教程：使用Nacos作为配置中心
+Spring Cloud Alibaba教程：Sentinel的使用
+Greenwich版本
+Spring Cloud Consul 之Greenwich版本全攻略
+spring cloud config将配置存储在数据库中
+Spring Cloud Sleuth 之Greenwich版本全攻略
+Spring Boot Admin 2.1.0 全攻略
+阿里分布式事务框架GTS开源了！
+Finchley版本
+Spring Cloud Finchley; Spring Boot 2.0.3
+
+史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第六篇: 分布式配置中心(Spring Cloud Config)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)
+
+史上最简单的SpringCloud教程 | 第十四篇: Spring Cloud Gateway初体验
+
+史上最简单的SpringCloud教程 | 第十五篇: Spring Cloud Gateway 之Predict篇
+
+史上最简单的SpringCloud教程 | 第十六篇: Spring Cloud Gateway 之filter篇
+
+史上最简单的SpringCloud教程 | 第十七篇: Spring Cloud Gateway 之限流篇
+
+史上最简单的SpringCloud教程 | 第十八篇: spring cloud gateway之服务注册与发现
+
+源码篇：
+深入理解Feign之源码解析
+深入理解Eureka之源码解析
+深入理解Ribbon之源码解析
+深入理解Hystrix之文档翻译
+深入理解Zuul之源码解析
+进阶篇
+Spring Cloud Sleuth超详细实战
+拜托！面试请不要再问我Spring Cloud底层原理
+微服务注册中心如何承载大型系统的千万级访问？
+每秒上万并发下的Spring Cloud参数优化实战
+
+'''
+macrozheng
+springcloud-learning
+https://github.com/macrozheng/springcloud-learning
+
+K8S篇
+全面讲解Kubernetes的使用，基于企业级容器管理平台KubeSphere，实现mall-swarm项目在Kubernetes环境下的部署。
+
+K8S篇介绍
+K8S入门教程
+K8S进阶使用
+SpringBoot应用在K8S环境下的部署
+企业级容器管理平台KubeSphere的使用
+mall-swarm在K8S环境下的部署
+
+
+
+
+Spring Cloud 入门教程
+https://ken.io/category/spring-cloud
+
+
+
+
+
+'''
+
+https://ken.io/note/spring-cloud-zuul-ratelimiter-quickstart
+
+Spring Cloud 入门教程9、服务限流/API限流（Zuul+RateLimiter）
+Java Spring Boot Spring Cloud 微服务 @ 2018-08-14 21:28:18 · 阅读：（20789）
+一、前言
+1、什么是RateLimiter、Spring Cloud Zuul RateLimiter？
+RateLimiter是Google开源的实现了令牌桶算法的限流工具（速率限制器）。http://ifeve.com/guava-ratelimiter/
+
+Spring Cloud Zuul RateLimiter结合Zuul对RateLimiter进行了封装，通过实现ZuulFilter提供了服务限流功能
+
+
+'''
+
+https://ken.io/note/spring-cloud-zuul-hystrix-fallback-quickstart
+
+Spring Cloud 入门教程8、服务网关Zuul+Hystrix：断路处理与监控
+Java Spring Boot Spring Cloud 微服务 @ 2018-07-24 20:06:44 · 阅读：（12419）
+一、前言
+1、本篇主要内容
+通过实现FallbackProvider进行Zuul网关路由断路处理
+Zuul+Hystrix路由断路监控配置与说明
+
+'''
+
+https://ken.io/note/spring-cloud-zuul-quickstart
+
+Spring Cloud 入门教程7、服务网关（Zuul）
+Java Spring Boot Spring Cloud 微服务 @ 2018-07-03 19:35:30 · 阅读：（12854）
+一、前言
+1、什么是服务网关？
+服务网关也就是API网关，服务网关可以作为服务的统一入口，提供身份校验、动态路由、负载均衡、安全管理、统计、监控、流量管理、灰度发布、压力测试等功能
+
+服务网关/API网关并不是微服务体系所特有的，而是微服务流行起来之后，服务网关基本上成了微服务架构的标配。服务网关通常用于向客户端或者合作伙伴应用提供统一的服务接入方式，例如：App网关、开放平台（OpenAPI）等等。
+
+2、什么是Zuul？
+Zuul是Netflix开源的服务网关/API网关,提供动态路由、监控、弹性、安全性等功能。
+
+Zuul is an edge service that provides dynamic routing, monitoring, resiliency, security, and more. Please view the wiki for usage, information, HOWTO, etc https://github.com/Netflix/zuul/wiki
+
+
+'''
+
+https://ken.io/note/spring-cloud-hystrix-dashboard-turbine-quickstart
+
+Spring Cloud 入门教程6、Hystrix Dashboard监控数据聚合（Turbine）
+Java Spring Boot Spring Cloud 微服务 @ 2018-06-27 19:59:39 · 阅读：（10740）
+一、前言
+1、什么是Turbine？
+Turbine是Netflix开源的将Server-Sent Event（SSE）的JSON数据流聚合成单个流的工具。我们可以通过Turbine将Hystrix生产的监控数据（JSON）合并到一个流中，方便我们对存在多个实例的应用进行监控。
+
+Turbine can be used with any data source that fits the supported JSON format of key/value pairs delivered via Server Sent Events. However, it is specifically intended for aggregating streams output by Hystrix so that will be used in all examples.
+
+'''
+
+https://ken.io/note/spring-cloud-hystrix-dashboard-quickstart
+
+Spring Cloud 入门教程5、服务容错监控：Hystrix Dashboard
+Java Spring Boot Spring Cloud 微服务 @ 2018-05-13 18:12:28 · 阅读：（10899）
+一、前言
+1、Hystrix Dashboard的作用？
+上一篇我们介绍了Hystrix的基础使用，我们可以通过Hystrix做到依赖隔离和熔断等操作。但是只有工具的使用而没有监控，我们就无法在第一时间发现出现问题的依赖，也不能判断服务整体的健康状态/运行状态。所以我们还要做好相关的监控工作。
+
+Hystrix提供了监控页面，本篇主要介绍如何使用Hystrix Dashboard对服务的容错情况进行监控。
+
+
+'''
+
+https://ken.io/note/spring-cloud-hystrix-quickstart
+
+Spring Cloud 入门教程4、服务容错保护：断路器（Hystrix）
+Java Spring Boot Spring Cloud 微服务 @ 2018-04-26 20:38:37 · 阅读：（10819）
+一、前言
+1、为什么需要断路器
+在分布式架构中，一个应用依赖多个服务是非常常见的，如果其中一个依赖由于延迟过高发生阻塞，调用该依赖服务的线程就会阻塞，如果相关业务的QPS较高，就可能产生大量阻塞，从而导致该应用/服务由于服务器资源被耗尽而拖垮。
+
+另外，故障也会在应用之间传递，如果故障服务的上游依赖较多，可能会引起服务的雪崩效应。就跟数据瘫痪，会引起依赖该数据库的应用瘫痪是一样的道理。
+
+所以，断路器就是用来支持服务隔离、熔断等操作的工具。断路器会以隔离的方式来处理服务请求，当断路数量达到阈值，就会触发熔断（直接返回失败）。
+
+2、什么是Hystrix？
+Hystrix是SOA/微服务架构中提供服务隔离、熔断、降级机制的工具/框架。通过以上手段来降低服务故障带来的关联影响，以提高系统的整体可用性。
+
+Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. -https://github.com/Netflix/Hystrix
+
+Hystrix就是断路器的典型代表。
+Hystrix工作原理：https://ken.io/note/netflix-hystrix-intro-principle
+
+
+'''
+
+https://ken.io/note/spring-cloud-feign-quickstart
+
+Spring Cloud 入门教程3、服务消费者（Feign）
+Java Spring Boot Spring Cloud 微服务 @ 2018-04-19 21:37:51 · 阅读：（13131）
+一、前言
+1、什么是Feign
+Feign是基于Ribbon封装的HTTP Client工具包，Feign的目标是简化HTTP Client。Feign也确实做到了这一点，使用Feign发起HTTP请求只需要定义好接口并且配置好相应的注解即可完成对对应接口的绑定。
+
+Spring Cloud基于Feign封装了Spring Cloud Feign（OpenFeign），同Ribbon一样，主要是方便结合Eureka、Consul等服务治理框架使用。Feign的主要作用是：从服务器端拿到对应服务列表后以负载均衡的方式访问对应服务，比Ribbon使用起来会更加方便。
+
+
+'''
+
+https://ken.io/note/spring-cloud-ribbon-quickstart
+
+Spring Cloud 入门教程2、服务消费者（Ribbon）
+Java Spring Boot Spring Cloud 微服务 @ 2018-04-18 22:35:36 · 阅读：（9985）
+一、前言
+1、什么是Ribbon
+Ribbon是Netflix开源的实现了负载均衡等功能的RPC客户端。
+支持HTTP、TCP、UDP协议，且有一定的容错、缓存等机制。
+
+Spring Cloud基于Ribbon封装了Spring Cloud Ribbon，方便结合Eureka、Consul等服务治理框架使用。Ribbon的主要作用是：从服务器端拿到对应服务列表后以负载均衡的方式访问对应服务。
+
+
+'''
+Spring Cloud 入门教程1、服务注册与发现（Eureka）
+Java Spring Boot Spring Cloud 微服务 @ 2018-04-16 22:09:35 · 阅读：（13108）
+一、前言
+1、什么是Eureka？
+Eureka是Netflix开源的服务注册与发现框架，Eureka由两个组件组成：Eureka服务器和Eureka客户端。
+
+Eureka Server提供服务注册服务，各个节点启动后，会在Eureka Server中进行注册，这样EurekaServer中的服务注册表中将会存储所有可用服务节点的信息，服务节点的信息可以在界面中直观的看到。
+
+Eureka客户端是一个Java客户端，用来简化与服务器的交互、作为轮询负载均衡器，并提供服务的故障切换支持。
+
+
+
+'''
+一、 Spring Cloud 是什么？
+Spring Cloud 是将分布式系统中一系列基础框架/工具进行整合的框架。其中包含：
+服务注册与发现、服务网关、熔断器、配置中心、消息中心、服务链路追踪等等。
+
+Spring Cloud 并没有重复造轮子，Spring Cloud只是依赖于Spring Boot屏蔽掉了各个框架复杂的配置。
+所有的组件就相当于Spring Cloud的插件，开发人员可以根据自己的需要自由结合使用。
+有Spring Boot这个利器在，所有组件都可以轻松引入、便捷开发。也一定程度上降低了各组件的学习成本、调试成本、
+让开发人员可以轻松上手。
+
+如果需要从0开始进行服务化体系构建，Spring Cloud一定是最低成本的选择。至少 ken.io 这么觉得。:-)
+
+二、 Spring Cloud 整合/集成了那些组件？
+Spring Cloud Netflix
+Netflix基本上可以说是公认的微服务架构建设的标杆，之所以Netflix能获得这样的称号，
+这个离不开Netflix已经开源这些优秀的组件（ https://netflix.github.io/ ），
+这些组件也可以说是Spring Cloud的核心。
+
+Netflix Eureka
+服务注册中心，支持基于HTTP的服务，支持自动服务的自动注册与发现、负载均衡、故障转移等。
+
+Netflix Hystrix
+熔断器，为访问远程服务、系统提供了熔断机制，一旦外部服务超时或者发生故障，将会进行熔断，
+以防单个或者少数服务发生故障时引起连锁反应，导致所有服务上游或者相关服务被拖慢、甚至被拖垮。
+提高系统面对延迟和故障的容错能力。
+
+Netflix Zuul
+服务网关，支持动态路由、监控等，通过zuul可以实现鉴权等功能，也可以结合Hystrix做一些基础的熔断支持。
+
+Spring Cloud Config
+分布式配置中心。通过Spring Cloud Config，开发人员可以将原先放在application.yml中的配置，
+存储在远程服务器（Git、SVN等）集中管理，降低应用配置的维护成本。
+
+Spring Cloud Bus
+事件中心，用于将服务和服务实例与分布式消息一起连接，通常用于集群间、甚至跨集群的事件传播（例如：配置变更）。
+所以Spring Cloud Bus通常会和Spring Cloud Config结合使用，
+方便应用自动获取到配置变更的动作并完成配置的更新。
+
+Spring Cloud Consul
+服务注册中心，同样提供了服务的注册与发现等功能。
+Consul与Eureka二选一即可
+
+Spring Cloud Security
+基于Spring Security为Spring Cloud集成的组件提供安全性相关的功能，尤其是Zuul，
+通常是结合Zuul提供OAuth 2.0的校验功能
+
+Spring Cloud Sleuth
+分布式服务链路追踪客户端工具，通常是结合Zipkin、HTrace等提供分布式服务链路追踪的功能。
+
+Spring Cloud OpenFeign
+Feign是一个Java实现的HTTP Client。可以非常方便的通过HTTP协议请求外部资源。使用Feign访问注册到Eureka的服务，非常方便。
+
+Spring Cloud Starters
+基于Spring Boot的各组件的Starter，简化Spring Cloud各组件的依赖管理。
+
+Spring Cloud 还有以下成员：
+
+Spring Cloud for Cloud Foundry,
+Spring Cloud Open Service Broker,
+Spring Cloud Cluster,
+Spring Cloud Data Flow,
+Spring Cloud Stream,
+Spring Cloud Stream App Starters,
+Spring Cloud Task,
+Spring Cloud Task App Starters,
+Spring Cloud Zookeeper,
+Spring Cloud for Amazon Web Services,
+Spring Cloud Connectors,
+Spring Cloud CLI,
+Spring Cloud Contract,
+Spring Cloud Gateway,
+Spring Cloud OpenFeign,
+
+这里 ken.io 就不一一介绍了，
+
+三、 Spring Cloud 是否值得选择？
+对于中小型公司来说，自研完成微服务体系建设成本太高，通常来说是要采用开源的方案。
+
+目前已经开源的微服务框架，有一定的群众基础的也只有Dubbo了。Dubbo也在2018年2月进入了Apache孵化器。
+Dubbo的服务注册是依赖于Zookeeper，Dubbo框架本身更多的关注点是在RPC这块。而Spring Cloud意图就很明显了，
+重在整合，依赖于Spring Boot，将各个框架的复杂度或者是框架之前结合的复杂度很大程度上进行了削减。
+
+总结来说，Spring Cloud的思路就是，已经有的我拿来用，实在没有的我再补充。
+Spring Cloud相对于Dubbo来说，是整合了整套解决方案的框架，而Dubbo只是其中的一个点。
+
+Dubbo相对于Spring Cloud更轻，不过选择Dubbo就可能意味着跟其他组件的整合就需要付出更多一点的成本。
+对于ken这样一个比较懒的人，推荐使用更全面的Spring Cloud。
+
+四、备注
+本文参考
+https://projects.spring.io/spring-cloud/
+https://baike.baidu.com/item/spring%20cloud
+http://developer.51cto.com/art/201711/559121.htm
+前置知识
+Spring Boot 入门教程：https://ken.io/note/springboot-course-basic-helloworld
+系列名称：Spring Cloud 入门教程
+下一篇：Spring Cloud 入门教程1、服务注册与发现（Eureka）
