@@ -22,7 +22,6 @@ public class CardController {
             request.getAmount()
         );
         
-        String message = success ? "payment successful" : "insufficient balance or invalid card";
-        return new CardPayResponse(success, request.getCardNo(), request.getAmount(), message);
+        return new CardPayResponse(success, request.getCardNo(), request.getAmount(), null, null);
     }
 }

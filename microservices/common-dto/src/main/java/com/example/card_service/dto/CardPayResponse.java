@@ -6,13 +6,15 @@ public class CardPayResponse {
     private String cardNo;
     private int amount;
     private String message;
+    String errorcode;
 
     // 帶參數建構子
-    public CardPayResponse(boolean success, String cardNo, int amount, String message) {
+    public CardPayResponse(boolean success, String cardNo, int amount, String message, String errorcode) {
         this.success = success;
         this.cardNo = cardNo;
         this.amount = amount;
         this.message = message;
+        this.errorcode = errorcode;
     }
 
     // 空建構子 (JSON 反序列化需要)
@@ -51,4 +53,7 @@ public class CardPayResponse {
     public void setMessage(String message) {
         this.message = message;
     }
+
+    public String getErrorCode() { return errorcode; }
+    public void setErrorCode(String errorcode) { this.errorcode = errorcode; }
 }
